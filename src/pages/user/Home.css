@@ -1,0 +1,24 @@
+/* Add this minimal CSS just for the color utilities */
+.text-purple {
+    color: #6f42c1 !important;
+  }
+  
+  .text-teal {
+    color: #20c997 !important;
+  }
+  
+  .bg-teal {
+    background-color: #20c997 !important;
+  }
+  
+  .btn-teal {
+    background-color: #20c997;
+    border-color: #20c997;
+    color: white;
+  }
+  
+  .btn-teal:hover {
+    background-color: #199d7d;
+    border-color: #178f72;
+    color: white;
+  }

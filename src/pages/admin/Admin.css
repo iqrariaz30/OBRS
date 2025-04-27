@@ -1,0 +1,16 @@
+.text-purple { color: #6f42c1; }
+.bg-purple { background-color: #6f42c1 !important; }
+.text-teal { color: #20c997; }
+.btn-teal { 
+  background-color: #20c997; 
+  border-color: #20c997; 
+  color: white;
+}
+.btn-outline-purple { 
+  color: #6f42c1; 
+  border-color: #6f42c1; 
+}
+.btn-outline-purple:hover {
+  background-color: #6f42c1;
+  color: white;
+}

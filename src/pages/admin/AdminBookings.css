@@ -1,0 +1,17 @@
+.text-purple { color: #6f42c1; }
+.bg-purple { background-color: #6f42c1 !important; }
+.text-teal { color: #20c997; }
+.bg-teal { background-color: #20c997 !important; }
+.btn-teal { 
+  background-color: #20c997; 
+  border-color: #20c997; 
+  color: white;
+}
+.btn-outline-teal { 
+  color: #20c997; 
+  border-color: #20c997; 
+}
+.btn-outline-purple { 
+  color: #6f42c1; 
+  border-color: #6f42c1; 
+}
